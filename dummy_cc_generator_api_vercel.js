@@ -12,7 +12,7 @@
 
 // Save this file as: /api/generate.js
 
-const DEFAULT_KEYS = 'zkart123';
+const DEFAULT_KEYS = 'zotronics';
 
 function parseApiKeysFromEnv() {
   const raw = process.env.API_KEYS || DEFAULT_KEYS;
